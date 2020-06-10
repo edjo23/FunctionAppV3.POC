@@ -1,0 +1,7 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=pocarchaesa;AccountKey=vvj6XqM8f4ECsvlKD5nDN478iFgOpWXfK3IuJAaDKEeEh/IbRkelfD+R7QDl2cKohD06dKf9Zo4tM2TQ3QiRug==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  }
+}
